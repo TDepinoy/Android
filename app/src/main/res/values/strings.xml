@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ParlezVousAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="connection_form">Formulaire de connexion</string>
+    <string name="sendButton">Valider</string>
+    <string name="cleanButton">Effacer</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="error_empty_fields">Tous les champs doivent être remplis</string>
+    <string name="error_login_invalid">Login ou mot de passe non valide</string>
+    <string name="title_activity_choose">ChooseActivity</string>
+    <string name="message_list">Liste des messages</string>
+    <string name="message_send">Envoyer un message</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="messageHint">Entrez votre message</string>
+    <string name="title_activity_list_message">Liste des messages</string>
+    <string name="refresh">Rafraîchir</string>
+
+</resources>

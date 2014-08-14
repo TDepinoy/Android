@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/tdepinoy/AndroidStudioProjects/ParlezVousAndroid/app/build/intermediates/pre-dexed/debug/okio-1.0.0-0f28dceae625473e80150657653e3aaa807b0aee.jar"
+        jar="/home/tdepinoy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3"/>
+    <item
+        dex="/home/tdepinoy/AndroidStudioProjects/ParlezVousAndroid/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-a38be37a2f0039d9b0a782c26586902c0a04d422.jar"
+        jar="/home/tdepinoy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e"/>
+
+</pre-dex-items>
